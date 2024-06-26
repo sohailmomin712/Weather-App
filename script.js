@@ -108,8 +108,6 @@
 //   weatherIcon.style.display = "block";
 // }
 
-
-
 // Fetching using async and await//
 async function getWeather() {
   // Get the city name from the input field
